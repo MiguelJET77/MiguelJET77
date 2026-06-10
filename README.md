@@ -1,3 +1,19 @@
 # Muito prazer! Meu nome é Miguel 
+
+**Sobre Mim:** 
+
 ---
-**Sobre mim:** 
+
+**Habilidades Técnicas:**
+
+---
+
+**Projetos Anteriores:**
+
+---
+
+**Metas de aprendizado:**
+
+---
+
+**Contato:**
