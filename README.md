@@ -49,3 +49,11 @@ Trainee da TITAN - [<img src="https://camo.githubusercontent.com/d0a5e08c0a9838e
 [<img src=" https://cdn-icons-png.flaticon.com/256/174/174857.png" width="90" height="85">](https://www.linkedin.com/in/miguel-ferreira-406371263/)
 
 </div>
+
+<br>
+
+<div style="display: flex; align-items: center; gap: 15px;">
+    <a href="mailto:miguel04052001@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="95" height="110"></a>
+    <a href="https://www.instagram.com/miguel_fgp/"><img src="https://i0.wp.com/doutorespalhacos.com.br/wp-content/uploads/2020/03/logo-instagram-png-fundo-transparente.png" width="90" height="90"></a>
+    <a href="https://www.linkedin.com/in/miguel-ferreira-406371263/"><img src=" https://cdn-icons-png.flaticon.com/256/174/174857.png" width="90" height="85"></a>
+  </div>
