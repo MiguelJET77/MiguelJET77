@@ -1,6 +1,6 @@
 # Muito prazer! Meu nome é Miguel 🪪
 
-**Sobre mim: Buscando sempre melhorar, quero atuar na área da tecnologia da informação, em mais uma etapa atualmente como dev mobile. Minha maior meta é a excelência e a satisfação do cliente, sou viciado em acertar e desafiar a mim mesmo, desse modo espero agregar grande valor.**
+**Sobre mim: Buscando sempre melhorar, quero atuar na área de Tecnologia da Informação, atualmente como dev mobile. Minha maior meta é a excelência e a satisfação do cliente; sou viciado em superar desafios e em acertar, de modo que espero agregar grande valor.**
 
 ---
 🎓Bacharelando em Ciência, Tecnologia e Inovação - UFBA
@@ -24,17 +24,17 @@ Trainee da TITAN - [<img src="https://camo.githubusercontent.com/d0a5e08c0a9838e
 <br>
 💼Machine Learning: Desenvolvimento e implementação de modelos preditivos, de agrupamento e não supervisionados
 <br>
-💼Redes de Computadores.
+💼Redes de Computadores
 
 ---
 
 **Projetos Anteriores:** 
-- Banco de dados relacional para sistema de gestão bancária
-- Modelo de inteligência artificial para prever doenças cardíacas com SVM e K-Means
-- Sistema de controle de estoque utilizando Java
+- Desenvolvimento de banco de dados relacional para sistema de gestão bancária.
+- Modelo de inteligência artificial para previsão de doenças cardíacas utilizando SVM e K-Means.
+- Sistema de controle de estoque desenvolvido em Java.
 ---
 
-**Metas de aprendizado:** Espero aprender técnicas e estratégias que são utilizadas no mercado, como ciclo de vida de software, git, metodologias ágeis e resoluções de problemas reais. Assim como incrementar softskills.
+**Metas de aprendizado:** Espero aprender técnicas e estratégias de mercado, como ciclo de vida de software, Git, metodologias ágeis e resolução de problemas reais, bem como aprimorar minhas soft skills.
 
 ---
 
@@ -42,7 +42,10 @@ Trainee da TITAN - [<img src="https://camo.githubusercontent.com/d0a5e08c0a9838e
 
 <div style="display: flex; align-items: center; gap: 10px;">
 
-[<img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="90" height="90">](mailto:miguel04052001@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="95" height="110">](mailto:miguel04052001@gmail.com)
 
 [<img src="https://i0.wp.com/doutorespalhacos.com.br/wp-content/uploads/2020/03/logo-instagram-png-fundo-transparente.png" width="90" height="90">](https://www.instagram.com/miguel_fgp/)
+
+[<img src=" https://cdn-icons-png.flaticon.com/256/174/174857.png" width="90" height="85">](https://www.linkedin.com/in/miguel-ferreira-406371263/)
+
 </div>
